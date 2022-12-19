@@ -1,0 +1,38 @@
+.container{
+  background-color: white;
+  align-content: center;
+  justify-content: center;
+  padding: 5px;
+  position: absolute;
+}
+
+.botao{
+    padding: 5px;
+    width: 200px;
+    height: 90px;
+    color: white;
+    background-color: rgb(87, 85, 85);
+    border-radius: 35px;
+    font-size: 30px;
+}
+
+
+.imagem{
+  padding: 5px;
+  width: 270px;
+}
+
+.imagem2{
+  padding: 5px;
+  width: 150px;
+}
+
+.bt{
+  padding: 5px;
+  width: 250px;
+  height: 100px;
+  color: black;
+  background-color: transparent;
+  font-size: 30px;
+  border-color: transparent;
+}

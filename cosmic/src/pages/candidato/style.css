@@ -1,0 +1,14 @@
+.container{
+  background-color: white;
+  align-content: center;
+  justify-content: center;
+  padding: 5px;
+  position: absolute;
+}
+
+.titulo{
+  padding: 5px;
+  font-size: 30px;
+  color: black;
+  font-style: italic;
+}
